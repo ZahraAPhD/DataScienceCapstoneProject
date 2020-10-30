@@ -61,7 +61,7 @@ go in Manhattan were scraped from the FourSquare site using the developer API ac
 ![power6_RSquareScore](https://user-images.githubusercontent.com/59964869/97741326-ea2c2b80-1ab8-11eb-8299-2f9d9455b11f.JPG)
 
 ## Conclusion
-    There isn't a significant relationship between number of bakeries and population density for
+There isn't a significant relationship between number of bakeries and population density for
 a linear fit and polynomial fit at a power of 2 and 6. Business associates are advised to look at other variables such as access to public
 transportation, distribution of schools, parks and so on in different neighbourhoods in a city to
 determine where to open a bakery for the highest profit possible.
