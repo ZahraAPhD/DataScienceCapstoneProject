@@ -45,7 +45,9 @@ go in Manhattan were scraped from the FourSquare site using the developer API ac
 1. New York City Population Density
 
 ![Population_density_Manhattan](https://user-images.githubusercontent.com/59964869/97740688-08455c00-1ab8-11eb-83c4-308176564831.JPG)
+
 2. Modeling
+
 * Linear Regression
 
 ![SeabornLinearRegressionPlot](https://user-images.githubusercontent.com/59964869/97741284-d4b70180-1ab8-11eb-8488-3f4a2d98d4c6.JPG)
