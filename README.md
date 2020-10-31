@@ -1,7 +1,8 @@
 # IBM Professional Data Science Capstone Project
 
 ## Project title: 
-'The battle of the Neighborhoods: How does population density influence business decisions?'
+'The battle of the Neighborhoods: How does population density influence business decisions?' -By Zahra Adahman, BSc/MBS
+April 14th, 2020.
 
 ## Background and Problem
 
